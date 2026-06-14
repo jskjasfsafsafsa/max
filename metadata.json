@@ -1,0 +1,6 @@
+{
+  "name": "MAX",
+  "description": "L'application ultime de conversation P2P, lecteur & téléchargeur musical de vos artistes préférés, et chat IA d'avant-garde fonctionnant en ligne et hors ligne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
